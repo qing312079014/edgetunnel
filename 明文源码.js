@@ -8,7 +8,7 @@ let subConverter = 'SUBAPI.fxxk.dedyn.io';
 let subConfig = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini_MultiMode.ini";
 let subProtocol = 'https';
 let subEmoji = 'true';
-let socks5Address = 'socks://qing3120:2858970@qing312.serv00.net:11463';
+let socks5Address = '';
 let parsedSocks5Address = {}; 
 let enableSocks = false;
 
